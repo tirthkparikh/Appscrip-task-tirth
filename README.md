@@ -17,5 +17,5 @@ A product listing page (PLP) demo built with Next.js.
 
 ## Live Demo
 
-Coming Soon...
+https://appscrip-task-tirth.netlify.app/
 
